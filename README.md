@@ -6,7 +6,7 @@
 -->
 
 
-- 🔭 I’m currently working on Open Source
+- 🔭 Currently working on Open Source
 - 🌱 I’m currently learning Domain Driven Design
 - 👯 Open to opportunities.
 - 💬 Ask me about microservices and Javascript
