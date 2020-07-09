@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Open Source
 - 🌱 I’m currently learning Domain Driven Design
-- 👯 I’m looking for work.
+- 👯 Open to opportunities.
 - 💬 Ask me about microservices and Javascript
 - 📫 How to reach me: mutebironaldroninho@gmail.com
 - 😄 Pronouns: He/Him
