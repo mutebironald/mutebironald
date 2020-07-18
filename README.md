@@ -9,7 +9,6 @@
 - 🔭 Currently contributing to Open Source
 - 🌱 I’m currently learning Domain Driven Design
 - 👯 Open to opportunities.
-- 💬 Ask me about microservices and Javascript
 - 📫 How to reach me: mutebironaldroninho@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Iam a huge Man Utd fan
